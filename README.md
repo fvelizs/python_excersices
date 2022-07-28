@@ -1,2 +1,2 @@
 # python_exercises
-exercises results
+exercises python basic (results)
